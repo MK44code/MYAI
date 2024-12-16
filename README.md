@@ -1,2 +1,2 @@
-# AI Multi-Agent Project
-This project contains AI-based agents for text generation, web scraping, and more.
+# AI Multi-Agent Orchestrator
+This project integrates AI-based web scraping, text generation, and automation tools.
